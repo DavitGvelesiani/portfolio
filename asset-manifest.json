@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.06f011fe.css",
-    "main.js": "/portfolio/static/js/main.4c4d4750.js",
+    "main.js": "/portfolio/static/js/main.4597181c.js",
     "static/media/food-order.png": "/portfolio/static/media/food-order.0d700507506ccbde9b44.png",
     "static/media/meetups.png": "/portfolio/static/media/meetups.f16ea6fc74d035bdacae.png",
     "static/media/netflix.jpg": "/portfolio/static/media/netflix.d34c6b0d7da4a7fba5f8.jpg",
     "static/media/react-native.png": "/portfolio/static/media/react-native.39b8cc6d1422b466a271.png",
     "static/media/simon.png": "/portfolio/static/media/simon.3a0b794d53e404108550.png",
-    "static/media/drum.jpg": "/portfolio/static/media/drum.7d92a77c4777d38a4021.jpg",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/chat-app.jpg": "/portfolio/static/media/chat-app.68f2f0e69ee3ae25c463.jpg",
     "static/media/youtube.jpg": "/portfolio/static/media/youtube.b4f15239f2539b3cc559.jpg",
@@ -20,10 +19,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.06f011fe.css.map": "/portfolio/static/css/main.06f011fe.css.map",
-    "main.4c4d4750.js.map": "/portfolio/static/js/main.4c4d4750.js.map"
+    "main.4597181c.js.map": "/portfolio/static/js/main.4597181c.js.map"
   },
   "entrypoints": [
     "static/css/main.06f011fe.css",
-    "static/js/main.4c4d4750.js"
+    "static/js/main.4597181c.js"
   ]
 }
